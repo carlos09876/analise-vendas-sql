@@ -4,7 +4,7 @@ Este projeto realiza uma análise de vendas utilizando SQL. As consultas foram e
 
 # Ferramentas: SQL
 
-# Tópicos abordados: Agrupamento de dados, funções de agregação, ordenação, filtros por data.
+Tópicos abordados: Agrupamento de dados, funções de agregação, ordenação, filtros por data.
 
 ## Como rodar
 Copie o conteúdo do `consultas.sql` para seu cliente SQL ou SQLite e execute os comandos.
