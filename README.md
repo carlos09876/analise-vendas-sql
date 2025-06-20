@@ -1,12 +1,32 @@
-# Projeto: Análise de Vendas com SQL
+# 💰 Análise de Vendas com SQL e Python
 
-Este projeto realiza uma análise de vendas utilizando SQL. As consultas foram elaboradas para extrair insights como produtos mais vendidos, receita total por categoria e desempenho de vendas ao longo do tempo.
+Projeto de análise de dados de vendas com foco em extração via **SQL** e análise com **Python**.
 
-# Ferramentas
-SQL
+## 🔍 Objetivos
 
-# Tópicos abordados
-Agrupamento de dados, funções de agregação, ordenação, filtros por data.
+- Consultar e unir tabelas com SQL (SQLite)
+- Analisar vendas por produto, categoria e período
+- Gerar gráficos e insights com Python
 
-## Como rodar
-Copie o conteúdo do `consultas.sql` para seu cliente SQL ou SQLite e execute os comandos.
+## 🛠️ Tecnologias
+
+- SQLite  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebook
+
+## 📁 Arquivos
+
+- `vendas.db`: banco de dados SQLite  
+- `analise_vendas_sql.ipynb`: notebook com a análise  
+- `imagens/`: gráficos gerados  
+
+## 🚀 Como usar
+
+1. Clone o repositório  
+2. Execute o notebook com Jupyter  
+
+```bash
+git clone https://github.com/carlos09876/analise-vendas-sql.git
+cd analise-vendas-sql
+jupyter notebook analise_vendas_sql.ipynb
+
